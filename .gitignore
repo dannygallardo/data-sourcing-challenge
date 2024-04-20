@@ -155,6 +155,7 @@ cython_debug/
 #More
 .DS_Store
 example.env
+.env
 
 
 # PyCharm
